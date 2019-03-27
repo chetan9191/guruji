@@ -1,2 +1,0 @@
-# guruji
-project
